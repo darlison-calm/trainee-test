@@ -1,0 +1,6 @@
+[submodule "carvalho-aleixo-backend"]
+	path = carvalho-aleixo-backend
+	url = git@github.com:darlison-calm/carvalho-aleixo-backend.git
+[submodule "carvalho-aleixo-frontend"]
+	path = carvalho-aleixo-frontend
+	url = git@github.com:darlison-calm/carvalho-aleixo-frontend.git
